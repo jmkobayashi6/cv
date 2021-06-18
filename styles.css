@@ -22,7 +22,7 @@ body{
  }
 /**Blocks on page organization**/
 .top_block{
-    width:1000 px;
+    width:100em;
     height: 200px;
     background-color: black;
     position:relative;
