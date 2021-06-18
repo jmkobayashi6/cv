@@ -26,6 +26,8 @@ body{
     height: 200px;
     background-color: black;
     position:absolute;
+    top:0px;
+    left:0px;
     margin-top:0px;
     }
 /**** SIDE BLOCK***********************/
