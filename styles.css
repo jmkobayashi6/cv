@@ -1,0 +1,310 @@
+
+
+
+h1{    margin-top: 0px;}
+
+body{
+
+    margin:0;
+
+}
+.line2{
+    border: solid;
+    border-color: black;
+    border-style: none;
+    border-left-style: solid;
+    border-width: 3px;
+    height: 380%;
+    width: 5px;
+    position: absolute;
+    top: 220px;
+    left: 270px;
+ }
+/**Blocks on page organization**/
+.top_block{
+    width:2000px;
+    height: 200px;
+    background-color: black;
+    position:absolute;
+    top:0;
+    left:0;
+    margin-top:0px;
+    }
+/**** SIDE BLOCK***********************/
+.side-block{
+  width:250px;
+  height:100%;
+  background-color:white;
+  position:absolute;
+  top:220px;
+
+}
+
+.contact{
+    width: 75%;
+    height: 30px;
+    background-color: black;
+    margin: 70px auto 5px auto;
+    position:relative;
+
+}
+.contactfont{
+color:white;
+position:absolute;
+margin:0;
+top:6px;
+left:56.6095px;
+
+}
+.image{
+height:38px;
+padding: 30px 0px 10px 5px;
+
+}
+
+.email{
+position:relative;
+}
+.email_name
+{
+position:absolute;
+left:55px;
+top:23px;
+font-family:arial;
+font-size:1.1em;
+}
+.linked{
+position:relative;
+}
+.linked_name
+{
+position:absolute;
+font-size:1.1em;
+font-family:arial;
+left: 55px;
+top: 42px;
+}
+
+
+
+
+.skills{
+    width: 75%;
+    height: 30px;
+    background-color: black;
+    margin: 85px auto 5px auto;
+    position:relative;
+
+
+}
+.skillsfont{
+color:white;
+position:absolute;
+margin:0;
+top:6px;
+left:56.6095px;
+
+}
+
+.table_skills{
+position:relative;
+font-family:arial;
+top:15px;
+margin:auto;
+line-height:2;
+
+}
+.cpu_skills{
+    width: 75%;
+    height: 30px;
+    background-color: black;
+    margin: 85px auto 5px auto;
+    position:relative;
+
+
+}
+.cpuskillsfont{
+color:white;
+position:absolute;
+margin:0;
+top:6px;
+left:49.074px;
+
+font-size: 1.1 em;
+
+}
+.table_cpuskills{
+line-height:2;
+font-size:1.1em;
+font-family:arial;
+}
+/**** TOP BLOCK***********************/
+.photo{
+height: 175px;
+position: absolute;
+left: 0px;
+top: 0px;
+
+}
+ .name{
+    color: white;
+    font-family:Aribau Grotesk Medium;
+    font-size: 3em;
+    margin-top: 0px;
+    position:absolute;
+    left:150px;
+    top: 25%;
+    }
+ .designation{
+ font-size: 1.1em;
+ font-family: Arial;
+ color:white;
+ position:absolute;
+ left:720px;
+ top:78px;
+ }
+ .line{
+   border-color:white;
+    border-style:none;
+    border-top-style: solid;
+    border-width: 2px;
+    height: 0px;
+    width: 60%;
+    position: absolute;
+    top:48%;
+    left:150px;
+
+ }
+
+ .description2{
+    position: absolute;
+    left: 150px;
+    top: 50%;
+    color: white;
+     font-family:Arial;
+    background-color: black;}
+
+.description
+{
+margin-top: 0px;
+margin-left:0px;
+position:absolute;
+top:200px
+}
+/**** MIDDLE/BODY BLOCK***********************/
+.middle_block{
+position:absolute;
+width:1200px;
+left:260px;
+top: 200px;
+}
+.about_descrip{
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    line-height:2;
+    font-size: 1.2em;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.Education{
+position:relative;
+left: 50px;
+top: 300px;
+height:200px;
+line-height:2;
+font-size: 1.1em;
+background-color:white;
+}
+
+.educationblock{
+height:40px;
+width:50%;
+background-color: black;
+margin:auto;
+position:relative;
+text-align:center;
+}
+.educationname{
+color:white;
+}
+
+.boldletters{font-weight:bolder;}
+
+
+.education_list{
+margin:30px 0px 30px 0px;
+height-line:2px;
+line-height:3.5;
+font-size: 1.1em;
+font-family: 'Roboto Slab', serif;
+}
+.workexperience{
+position:relative;
+left: 50px;
+top: 400px;
+line-height:2;
+font-size: 1.1em;
+background-color:white;
+}
+.workexperienceblock{
+height:40px;
+width:50%;
+background-color: black;
+margin:auto;
+position:relative;
+
+text-align:center;
+
+
+}
+.workexperiencename{
+color:white;
+}
+.past_title{
+position:relative;
+top:10px;
+font-family: 'Roboto Slab', serif;
+}
+.past_companyanddate
+{position:relative;
+margin-bottom:5px;
+font-family: 'Roboto Slab', serif;
+}
+.work_details{
+position:relative;
+
+top:0px;
+left:5px;
+margin-top:15px;
+font-family: 'Roboto Slab', serif;
+
+}
+.about{
+ color: white;
+    background-color: black;
+    position: absolute;
+    left: 40px;
+    margin-top: 0px;
+    top: 7px;
+}
+
+/**** BOTTOM BLOCK***********************/
+.bottom-container{
+position:absolute;
+top:110%;
+left:-30%;
+width:2000px;
+background-color: black;
+padding: 50px 0px 30px 0px;
+text-align:center;
+}
+
+
+.copyright{
+color:white;
+font-size: 0.75rem;
+padding: 20px 0;
+
+}
